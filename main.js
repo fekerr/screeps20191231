@@ -1,5 +1,7 @@
 "use strict";
 // Transcrypt'ed from Python, 2020-01-01 10:19:41
+// And manual to fekerr/screeps20191231...
+
 function main () {
    var __symbols__ = ['__py3.6__', '__esv5__'];
     var __all__ = {};
